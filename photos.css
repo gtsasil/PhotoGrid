@@ -1,0 +1,19 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%; /*divide 100% for 6(each phot has 2sides) = 1.66	*/
+	/*border: 10px solid grey;*/
+	height: 400px;
+    width: 400px;
+}
+
+p{
+	width: 20%;
+	margin-left: 1.66%;
+	font-family: raleway;
+	font-size: 23px;
+	font-weight: 800;
+	border-bottom: 3px solid #f1f1f1;
+	padding: 20px 0 20px 0;
+	text-transform: uppercase;
+}
